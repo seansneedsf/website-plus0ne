@@ -31,7 +31,13 @@ function App() {
             height={150}
             background={"#0CF"}
           />
-          <Frame background={""} width={"90%"} top={230} left={"5%"} color={"white"}>
+          <Frame
+            background={""}
+            width={"90%"}
+            top={230}
+            left={"5%"}
+            color={"white"}
+          >
             <h1>about</h1>
             <h2>us</h2>
             <p>
